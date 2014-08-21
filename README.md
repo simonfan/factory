@@ -1,0 +1,3 @@
+# factory[![Build Status](https://secure.travis-ci.org/simonfan/factory.png?branch=master)](http://travis-ci.org/simonfan/factory)
+
+Some module...
